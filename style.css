@@ -1,6 +1,6 @@
 /* General styling */
 html {
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   height: auto;
   max-width: 1600px;
@@ -75,6 +75,7 @@ header {
   background-position: bottom;
   height: 500px;
   position: relative;
+  filter: saturate(85%);
 }
 
 
@@ -87,10 +88,18 @@ label {
   padding: 40px 0 10px;
 }
 
+.label {
+  margin-right: 330px;
+}
+
 h1 {
   color: white;
   margin: 0;
   padding: 25px 0 15px;;
+}
+
+.light-text {
+    font-weight: 100;
 }
 
 input {
