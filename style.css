@@ -22,6 +22,12 @@ html {
   padding: 20px 50px;
   width: 33.3%;
 }
+/* @@media screen (max-width: 480px) {
+  .third-width {
+    float: none;
+    width: 100%;
+  }
+} */
 header img, .third-width img{
   border: 3px solid #3F8DA7;
   border-radius: 50%;
