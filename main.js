@@ -11,6 +11,12 @@ input from the input box
 Create an event listener to execute the function once the
 "event" happens*/
 
-var someDogs = document.querySelector('#dog-name');
+var someDog = document.querySelector('#dog-name');
 var input = document.querySelector('input');
 var button = document.querySelector('button');
+
+
+
+function replaceText() {
+  someDog.innerText = input.value;
+}
