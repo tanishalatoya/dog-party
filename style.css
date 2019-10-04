@@ -5,33 +5,27 @@ html {
   height: auto;
   max-width: 1600px;
 }
-
 *,
 *::after,
 *::before {
   box-sizing: border-box;
 }
-
 .full-width {
   width: 100%;
 }
-
 .block-item {
   display: block;
   margin: auto;
 }
-
 .third-width {
   float: left;
   padding: 20px 50px;
   width: 33.3%;
 }
-
 header img, .third-width img{
   border: 3px solid #3F8DA7;
   border-radius: 50%;
 }
-
 .button {
   background-color: #3F8DA7;
   color: white;
@@ -39,19 +33,15 @@ header img, .third-width img{
   padding: 10px 155px;
   width: 100%;
 }
-
-
 /* Navigation bar above header */
 nav {
   background: #93DFE4;
   border-bottom: 3px solid #3F8DA7;
 }
-
 nav img {
   float: left;
   padding: 10px 20px;
 }
-
 nav ul {
   text-align: right;
 }
@@ -59,16 +49,12 @@ nav ul li {
   display: inline-block;
   padding: 30px 20px 10px;
 }
-
-
 /* Header area */
-
 .header-info {
   position: relative;
   top: 40px;
   margin: auto;
 }
-
 header {
   background: url('images/park.jpg') center no-repeat;
   background-size: cover;
@@ -77,60 +63,46 @@ header {
   position: relative;
   filter: saturate(85%);
 }
-
-
 h1, label {
   text-align: center;
 }
-
 label {
   color: white;
   padding: 40px 0 10px;
 }
-
 .label {
   margin-right: 330px;
 }
-
 h1 {
   color: white;
   margin: 0;
   padding: 25px 0 15px;;
 }
-
 .light-text {
     font-weight: 100;
 }
-
 input {
   padding: 10px 130px;
 }
-
 .name-dog-button {
   background-color: #93DFE4;
   font-size: 18px;
   margin: 10px auto;
   padding: 10px 130px;
-
 }
-
 /* Content area */
 main h2 {
   text-align: center;
 }
-
 main img {
   display: block;
   margin: 0 auto;
 }
-
 main p {
   height: 200px;
   padding-top: 10px;
 }
-
 /* Footer area */
-
 footer {
   background-color: #3F8DA7;
   clear: both;
@@ -139,11 +111,9 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
-
 footer p {
   padding-left: 45px;
 }
-
 footer ul li {
   display: inline-block;
   padding: 10px 5px;;
