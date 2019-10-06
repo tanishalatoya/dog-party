@@ -22,12 +22,11 @@ html {
   padding: 20px 50px;
   width: 33.3%;
 }
-/* @@media screen (max-width: 480px) {
+@media screen and (max-device-width: 800px) {
   .third-width {
-    float: none;
     width: 100%;
   }
-} */
+}
 header img,
 .third-width
 img{
