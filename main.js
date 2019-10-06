@@ -11,4 +11,5 @@ button.addEventListener('click', replaceText);
 
 function replaceText() {
   someDog.innerText = input.value;
+  input.value = '';
 }
