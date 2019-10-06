@@ -27,6 +27,7 @@ html {
     width: 100%;
   }
 }
+/* Header Content Area*/
 header img,
 .third-width
 img{
@@ -103,6 +104,9 @@ input {
   padding: 10px 130px;
 }
 /* Content area */
+section .third-width {
+  height: auto;
+}
 main
 h2 {
   text-align: center;
