@@ -22,15 +22,10 @@ A class??? to paragraphs to hide them???
 var paragraph1 = document.querySelector('#paragraph1');
 var paragraph2 = document.querySelector('#paragraph2');
 var paragrah3 = document.querySelector('#paragrah3');
-
-console.log(paragrah1);
-console.log(paragrah2);
-console.log(paragrah3);
-
 var how = document.querySelector('#how');
 var what = document.querySelector('#what');
 var facts = document.querySelector('#facts');
 
-console.log(how);
-console.log(what);
-console.log(facts);
+how.addEventListener('click', );
+what.addEventListener('click',);
+facts.addEventListener('click', );
