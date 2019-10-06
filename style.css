@@ -123,6 +123,9 @@ p {
 .button .third-width{
   position: relative;
 }
+.hidden {
+  visibility: hidden;
+}
 /* Footer area */
 footer {
   background-color: #3F8DA7;
