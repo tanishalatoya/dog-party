@@ -117,8 +117,11 @@ img {
 }
 main
 p {
-  height: 200px;
-  padding-top: 10px;
+  height: 12em;
+  padding-top: 1em;
+}
+.button .third-width{
+  position: relative;
 }
 /* Footer area */
 footer {
