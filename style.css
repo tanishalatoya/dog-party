@@ -81,8 +81,10 @@ header {
   background-position: bottom;
   height: 500px;
   position: relative;
-  filter: saturate(85%);
 }
+/* header :not(h1, img) {
+  filter: saturate(2);
+} */
 h1,
 label {
   text-align: center;
