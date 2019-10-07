@@ -37,6 +37,7 @@ img {
   background-color: #3F8DA7;
   color: white;
   font-size: 18px;
+  margin-bottom: 0;
   padding: 3% 20%;
   width: 100%;
 }
@@ -104,7 +105,7 @@ input {
 }
 /* Content area */
 section .third-width {
-  height: auto;
+  position: relative;
 }
 main
 h2 {
@@ -117,7 +118,7 @@ img {
 }
 main
 p {
-  height: 12em;
+  height: auto;
   padding-top: 1em;
 }
 .button .third-width{
