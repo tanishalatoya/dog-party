@@ -23,16 +23,6 @@ html {
   padding: 20px 50px;
   width: 33.3%;
 }
-@media screen and (max-device-width: 800px){
-  .third-width {
-    width: 100%;
-  }
-}
-@media screen and (max-device-width: 800px) and (orientation: landscape) {
-  .third-width {
-    width: 80%;
-  }
-}
 header img,
 .third-width
 img {
@@ -149,4 +139,14 @@ footer ul
 li {
   display: inline-block;
   padding: 10px 5px;;
+}
+@media screen and (max-device-width: 800px){
+  .third-width {
+    width: 100%;
+  }
+}
+@media screen and (max-device-width: 800px) and (orientation: landscape) {
+  .third-width {
+    width: 80%;
+  }
 }
