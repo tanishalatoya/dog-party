@@ -5,6 +5,7 @@ html {
   height: auto;
   max-width: 1600px;
 }
+
 *,
 *::after,
 *::before {
@@ -117,12 +118,10 @@ input {
 section .third-width {
   position: relative;
 }
-main
-h2 {
+main h2 {
   text-align: center;
 }
-main
-img {
+main img {
   display: block;
   margin: 0 auto;
 }
