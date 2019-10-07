@@ -27,6 +27,11 @@ html {
     width: 100%;
   }
 }
+@media screen and (max-device-width: 800px) and (orientation: landscape) {
+  .third-width {
+    width: 80%;
+  }
+}
 header img,
 .third-width
 img {
