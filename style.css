@@ -119,9 +119,8 @@ img {
   display: block;
   margin: 0 auto;
 }
-main
-p {
-  height: auto;
+main p {
+  height: 15em;
   padding-top: 1em;
 }
 .hidden {
