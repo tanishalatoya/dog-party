@@ -45,18 +45,14 @@ nav {
   background: #93DFE4;
   border-bottom: 3px solid #3F8DA7;
 }
-nav
-img {
+nav img {
   float: left;
   padding: 10px 20px;
 }
-nav
-ul {
+nav ul {
   text-align: right;
 }
-nav
-ul
-li {
+nav ul li {
   display: inline-block;
   padding: 30px 20px 10px;
 }
@@ -131,12 +127,10 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
-footer
-p {
+footer p {
   padding-left: 45px;
 }
-footer ul
-li {
+footer ul li {
   display: inline-block;
   padding: 10px 5px;;
 }
