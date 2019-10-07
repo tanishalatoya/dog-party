@@ -27,7 +27,7 @@ html {
     width: 100%;
   }
 }
-@media screen and (max-device-width: 800px) and (orientation: landscape) {
+@media screen and (max-device-width: 800s px) and (orientation: landscape) {
   .third-width {
     width: 80%;
   }
@@ -125,7 +125,7 @@ img {
   margin: 0 auto;
 }
 main p {
-  height: 12em;
+  height: 15em;
   padding-top: 1em;
 }
 .hidden {
